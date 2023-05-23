@@ -1,0 +1,10 @@
+myEnv
+__pycache__
+archived_files
+archived_logs
+archived_reports
+assets
+downloaded_files
+latest_logs
+latest_report
+notebooks/.ipynb_checkpoints
